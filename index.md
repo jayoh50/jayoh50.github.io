@@ -1,1 +1,3 @@
-# Hello
+# 
+
+My name is Jesse and I am a rising senior studying computer science at the University of Maryland. My current focus is utilizing my education in creative ways to grow myself as a professional and as an individual. I am constantly looking for ways to bridge the gap between technology and my other passions, such as health and fitness, music, or art.
